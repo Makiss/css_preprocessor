@@ -1,0 +1,11 @@
+.card__image {
+	box-sizing: border-box;
+	padding: 15px;
+	width: 418px;
+	height: 418px;
+	background-image: url('../img/image-border.svg');
+
+	img {
+		border: 1px solid $color-main;
+	}
+}
